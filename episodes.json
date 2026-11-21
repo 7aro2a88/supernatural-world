@@ -1,0 +1,2714 @@
+[
+  {
+    "id": "TVD-1-1",
+    "show": "TVD",
+    "season": 1,
+    "episode": 1,
+    "title": "TVD · S01E01",
+    "kind": "episode"
+  },
+  {
+    "id": "DARKER-1",
+    "show": "Web Series",
+    "season": 0,
+    "episode": 1,
+    "title": "A Darker Truth — Part 1",
+    "kind": "webisode"
+  },
+  {
+    "id": "DARKER-2",
+    "show": "Web Series",
+    "season": 0,
+    "episode": 2,
+    "title": "A Darker Truth — Part 2",
+    "kind": "webisode"
+  },
+  {
+    "id": "DARKER-3",
+    "show": "Web Series",
+    "season": 0,
+    "episode": 3,
+    "title": "A Darker Truth — Part 3",
+    "kind": "webisode"
+  },
+  {
+    "id": "DARKER-4",
+    "show": "Web Series",
+    "season": 0,
+    "episode": 4,
+    "title": "A Darker Truth — Part 4",
+    "kind": "webisode"
+  },
+  {
+    "id": "TVD-1-2",
+    "show": "TVD",
+    "season": 1,
+    "episode": 2,
+    "title": "TVD · S01E02",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-1-3",
+    "show": "TVD",
+    "season": 1,
+    "episode": 3,
+    "title": "TVD · S01E03",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-1-4",
+    "show": "TVD",
+    "season": 1,
+    "episode": 4,
+    "title": "TVD · S01E04",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-1-5",
+    "show": "TVD",
+    "season": 1,
+    "episode": 5,
+    "title": "TVD · S01E05",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-1-6",
+    "show": "TVD",
+    "season": 1,
+    "episode": 6,
+    "title": "TVD · S01E06",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-1-7",
+    "show": "TVD",
+    "season": 1,
+    "episode": 7,
+    "title": "TVD · S01E07",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-1-8",
+    "show": "TVD",
+    "season": 1,
+    "episode": 8,
+    "title": "TVD · S01E08",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-1-9",
+    "show": "TVD",
+    "season": 1,
+    "episode": 9,
+    "title": "TVD · S01E09",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-1-10",
+    "show": "TVD",
+    "season": 1,
+    "episode": 10,
+    "title": "TVD · S01E10",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-1-11",
+    "show": "TVD",
+    "season": 1,
+    "episode": 11,
+    "title": "TVD · S01E11",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-1-12",
+    "show": "TVD",
+    "season": 1,
+    "episode": 12,
+    "title": "TVD · S01E12",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-1-13",
+    "show": "TVD",
+    "season": 1,
+    "episode": 13,
+    "title": "TVD · S01E13",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-1-14",
+    "show": "TVD",
+    "season": 1,
+    "episode": 14,
+    "title": "TVD · S01E14",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-1-15",
+    "show": "TVD",
+    "season": 1,
+    "episode": 15,
+    "title": "TVD · S01E15",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-1-16",
+    "show": "TVD",
+    "season": 1,
+    "episode": 16,
+    "title": "TVD · S01E16",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-1-17",
+    "show": "TVD",
+    "season": 1,
+    "episode": 17,
+    "title": "TVD · S01E17",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-1-18",
+    "show": "TVD",
+    "season": 1,
+    "episode": 18,
+    "title": "TVD · S01E18",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-1-19",
+    "show": "TVD",
+    "season": 1,
+    "episode": 19,
+    "title": "TVD · S01E19",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-1-20",
+    "show": "TVD",
+    "season": 1,
+    "episode": 20,
+    "title": "TVD · S01E20",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-1-21",
+    "show": "TVD",
+    "season": 1,
+    "episode": 21,
+    "title": "TVD · S01E21",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-1-22",
+    "show": "TVD",
+    "season": 1,
+    "episode": 22,
+    "title": "TVD · S01E22",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-2-1",
+    "show": "TVD",
+    "season": 2,
+    "episode": 1,
+    "title": "TVD · S02E01",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-2-2",
+    "show": "TVD",
+    "season": 2,
+    "episode": 2,
+    "title": "TVD · S02E02",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-2-3",
+    "show": "TVD",
+    "season": 2,
+    "episode": 3,
+    "title": "TVD · S02E03",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-2-4",
+    "show": "TVD",
+    "season": 2,
+    "episode": 4,
+    "title": "TVD · S02E04",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-2-5",
+    "show": "TVD",
+    "season": 2,
+    "episode": 5,
+    "title": "TVD · S02E05",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-2-6",
+    "show": "TVD",
+    "season": 2,
+    "episode": 6,
+    "title": "TVD · S02E06",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-2-7",
+    "show": "TVD",
+    "season": 2,
+    "episode": 7,
+    "title": "TVD · S02E07",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-2-8",
+    "show": "TVD",
+    "season": 2,
+    "episode": 8,
+    "title": "TVD · S02E08",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-2-9",
+    "show": "TVD",
+    "season": 2,
+    "episode": 9,
+    "title": "TVD · S02E09",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-2-10",
+    "show": "TVD",
+    "season": 2,
+    "episode": 10,
+    "title": "TVD · S02E10",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-2-11",
+    "show": "TVD",
+    "season": 2,
+    "episode": 11,
+    "title": "TVD · S02E11",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-2-12",
+    "show": "TVD",
+    "season": 2,
+    "episode": 12,
+    "title": "TVD · S02E12",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-2-13",
+    "show": "TVD",
+    "season": 2,
+    "episode": 13,
+    "title": "TVD · S02E13",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-2-14",
+    "show": "TVD",
+    "season": 2,
+    "episode": 14,
+    "title": "TVD · S02E14",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-2-15",
+    "show": "TVD",
+    "season": 2,
+    "episode": 15,
+    "title": "TVD · S02E15",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-2-16",
+    "show": "TVD",
+    "season": 2,
+    "episode": 16,
+    "title": "TVD · S02E16",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-2-17",
+    "show": "TVD",
+    "season": 2,
+    "episode": 17,
+    "title": "TVD · S02E17",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-2-18",
+    "show": "TVD",
+    "season": 2,
+    "episode": 18,
+    "title": "TVD · S02E18",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-2-19",
+    "show": "TVD",
+    "season": 2,
+    "episode": 19,
+    "title": "TVD · S02E19",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-2-20",
+    "show": "TVD",
+    "season": 2,
+    "episode": 20,
+    "title": "TVD · S02E20",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-2-21",
+    "show": "TVD",
+    "season": 2,
+    "episode": 21,
+    "title": "TVD · S02E21",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-2-22",
+    "show": "TVD",
+    "season": 2,
+    "episode": 22,
+    "title": "TVD · S02E22",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-3-1",
+    "show": "TVD",
+    "season": 3,
+    "episode": 1,
+    "title": "TVD · S03E01",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-3-2",
+    "show": "TVD",
+    "season": 3,
+    "episode": 2,
+    "title": "TVD · S03E02",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-3-3",
+    "show": "TVD",
+    "season": 3,
+    "episode": 3,
+    "title": "TVD · S03E03",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-3-4",
+    "show": "TVD",
+    "season": 3,
+    "episode": 4,
+    "title": "TVD · S03E04",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-3-5",
+    "show": "TVD",
+    "season": 3,
+    "episode": 5,
+    "title": "TVD · S03E05",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-3-6",
+    "show": "TVD",
+    "season": 3,
+    "episode": 6,
+    "title": "TVD · S03E06",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-3-7",
+    "show": "TVD",
+    "season": 3,
+    "episode": 7,
+    "title": "TVD · S03E07",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-3-8",
+    "show": "TVD",
+    "season": 3,
+    "episode": 8,
+    "title": "TVD · S03E08",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-3-9",
+    "show": "TVD",
+    "season": 3,
+    "episode": 9,
+    "title": "TVD · S03E09",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-3-10",
+    "show": "TVD",
+    "season": 3,
+    "episode": 10,
+    "title": "TVD · S03E10",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-3-11",
+    "show": "TVD",
+    "season": 3,
+    "episode": 11,
+    "title": "TVD · S03E11",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-3-12",
+    "show": "TVD",
+    "season": 3,
+    "episode": 12,
+    "title": "TVD · S03E12",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-3-13",
+    "show": "TVD",
+    "season": 3,
+    "episode": 13,
+    "title": "TVD · S03E13",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-3-14",
+    "show": "TVD",
+    "season": 3,
+    "episode": 14,
+    "title": "TVD · S03E14",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-3-15",
+    "show": "TVD",
+    "season": 3,
+    "episode": 15,
+    "title": "TVD · S03E15",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-3-16",
+    "show": "TVD",
+    "season": 3,
+    "episode": 16,
+    "title": "TVD · S03E16",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-3-17",
+    "show": "TVD",
+    "season": 3,
+    "episode": 17,
+    "title": "TVD · S03E17",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-3-18",
+    "show": "TVD",
+    "season": 3,
+    "episode": 18,
+    "title": "TVD · S03E18",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-3-19",
+    "show": "TVD",
+    "season": 3,
+    "episode": 19,
+    "title": "TVD · S03E19",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-3-20",
+    "show": "TVD",
+    "season": 3,
+    "episode": 20,
+    "title": "TVD · S03E20",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-3-21",
+    "show": "TVD",
+    "season": 3,
+    "episode": 21,
+    "title": "TVD · S03E21",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-3-22",
+    "show": "TVD",
+    "season": 3,
+    "episode": 22,
+    "title": "TVD · S03E22",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-4-1",
+    "show": "TVD",
+    "season": 4,
+    "episode": 1,
+    "title": "TVD · S04E01",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-4-2",
+    "show": "TVD",
+    "season": 4,
+    "episode": 2,
+    "title": "TVD · S04E02",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-4-3",
+    "show": "TVD",
+    "season": 4,
+    "episode": 3,
+    "title": "TVD · S04E03",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-4-4",
+    "show": "TVD",
+    "season": 4,
+    "episode": 4,
+    "title": "TVD · S04E04",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-4-5",
+    "show": "TVD",
+    "season": 4,
+    "episode": 5,
+    "title": "TVD · S04E05",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-4-6",
+    "show": "TVD",
+    "season": 4,
+    "episode": 6,
+    "title": "TVD · S04E06",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-4-7",
+    "show": "TVD",
+    "season": 4,
+    "episode": 7,
+    "title": "TVD · S04E07",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-4-8",
+    "show": "TVD",
+    "season": 4,
+    "episode": 8,
+    "title": "TVD · S04E08",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-4-9",
+    "show": "TVD",
+    "season": 4,
+    "episode": 9,
+    "title": "TVD · S04E09",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-4-10",
+    "show": "TVD",
+    "season": 4,
+    "episode": 10,
+    "title": "TVD · S04E10",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-4-11",
+    "show": "TVD",
+    "season": 4,
+    "episode": 11,
+    "title": "TVD · S04E11",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-4-12",
+    "show": "TVD",
+    "season": 4,
+    "episode": 12,
+    "title": "TVD · S04E12",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-4-13",
+    "show": "TVD",
+    "season": 4,
+    "episode": 13,
+    "title": "TVD · S04E13",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-4-14",
+    "show": "TVD",
+    "season": 4,
+    "episode": 14,
+    "title": "TVD · S04E14",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-4-15",
+    "show": "TVD",
+    "season": 4,
+    "episode": 15,
+    "title": "TVD · S04E15",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-4-16",
+    "show": "TVD",
+    "season": 4,
+    "episode": 16,
+    "title": "TVD · S04E16",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-4-17",
+    "show": "TVD",
+    "season": 4,
+    "episode": 17,
+    "title": "TVD · S04E17",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-4-18",
+    "show": "TVD",
+    "season": 4,
+    "episode": 18,
+    "title": "TVD · S04E18",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-4-19",
+    "show": "TVD",
+    "season": 4,
+    "episode": 19,
+    "title": "TVD · S04E19",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-4-20",
+    "show": "TVD",
+    "season": 4,
+    "episode": 20,
+    "title": "TVD · S04E20",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-4-21",
+    "show": "TVD",
+    "season": 4,
+    "episode": 21,
+    "title": "TVD · S04E21",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-4-22",
+    "show": "TVD",
+    "season": 4,
+    "episode": 22,
+    "title": "TVD · S04E22",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-4-23",
+    "show": "TVD",
+    "season": 4,
+    "episode": 23,
+    "title": "TVD · S04E23",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-5-1",
+    "show": "TVD",
+    "season": 5,
+    "episode": 1,
+    "title": "TVD · S05E01",
+    "kind": "episode"
+  },
+  {
+    "id": "TO-1-1",
+    "show": "TO",
+    "season": 1,
+    "episode": 1,
+    "title": "TO · S01E01",
+    "kind": "episode"
+  },
+  {
+    "id": "TO-1-2",
+    "show": "TO",
+    "season": 1,
+    "episode": 2,
+    "title": "TO · S01E02",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-5-2",
+    "show": "TVD",
+    "season": 5,
+    "episode": 2,
+    "title": "TVD · S05E02",
+    "kind": "episode"
+  },
+  {
+    "id": "TO-1-3",
+    "show": "TO",
+    "season": 1,
+    "episode": 3,
+    "title": "TO · S01E03",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-5-3",
+    "show": "TVD",
+    "season": 5,
+    "episode": 3,
+    "title": "TVD · S05E03",
+    "kind": "episode"
+  },
+  {
+    "id": "TO-1-4",
+    "show": "TO",
+    "season": 1,
+    "episode": 4,
+    "title": "TO · S01E04",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-5-4",
+    "show": "TVD",
+    "season": 5,
+    "episode": 4,
+    "title": "TVD · S05E04",
+    "kind": "episode"
+  },
+  {
+    "id": "TO-1-5",
+    "show": "TO",
+    "season": 1,
+    "episode": 5,
+    "title": "TO · S01E05",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-5-5",
+    "show": "TVD",
+    "season": 5,
+    "episode": 5,
+    "title": "TVD · S05E05",
+    "kind": "episode"
+  },
+  {
+    "id": "TO-1-6",
+    "show": "TO",
+    "season": 1,
+    "episode": 6,
+    "title": "TO · S01E06",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-5-6",
+    "show": "TVD",
+    "season": 5,
+    "episode": 6,
+    "title": "TVD · S05E06",
+    "kind": "episode"
+  },
+  {
+    "id": "TO-1-7",
+    "show": "TO",
+    "season": 1,
+    "episode": 7,
+    "title": "TO · S01E07",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-5-7",
+    "show": "TVD",
+    "season": 5,
+    "episode": 7,
+    "title": "TVD · S05E07",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-5-8",
+    "show": "TVD",
+    "season": 5,
+    "episode": 8,
+    "title": "TVD · S05E08",
+    "kind": "episode"
+  },
+  {
+    "id": "TO-1-8",
+    "show": "TO",
+    "season": 1,
+    "episode": 8,
+    "title": "TO · S01E08",
+    "kind": "episode"
+  },
+  {
+    "id": "TO-1-9",
+    "show": "TO",
+    "season": 1,
+    "episode": 9,
+    "title": "TO · S01E09",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-5-9",
+    "show": "TVD",
+    "season": 5,
+    "episode": 9,
+    "title": "TVD · S05E09",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-5-10",
+    "show": "TVD",
+    "season": 5,
+    "episode": 10,
+    "title": "TVD · S05E10",
+    "kind": "episode"
+  },
+  {
+    "id": "TO-1-10",
+    "show": "TO",
+    "season": 1,
+    "episode": 10,
+    "title": "TO · S01E10",
+    "kind": "episode"
+  },
+  {
+    "id": "TO-1-11",
+    "show": "TO",
+    "season": 1,
+    "episode": 11,
+    "title": "TO · S01E11",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-5-11",
+    "show": "TVD",
+    "season": 5,
+    "episode": 11,
+    "title": "TVD · S05E11",
+    "kind": "episode"
+  },
+  {
+    "id": "TO-1-12",
+    "show": "TO",
+    "season": 1,
+    "episode": 12,
+    "title": "TO · S01E12",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-5-12",
+    "show": "TVD",
+    "season": 5,
+    "episode": 12,
+    "title": "TVD · S05E12",
+    "kind": "episode"
+  },
+  {
+    "id": "TO-1-13",
+    "show": "TO",
+    "season": 1,
+    "episode": 13,
+    "title": "TO · S01E13",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-5-13",
+    "show": "TVD",
+    "season": 5,
+    "episode": 13,
+    "title": "TVD · S05E13",
+    "kind": "episode"
+  },
+  {
+    "id": "TO-1-14",
+    "show": "TO",
+    "season": 1,
+    "episode": 14,
+    "title": "TO · S01E14",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-5-14",
+    "show": "TVD",
+    "season": 5,
+    "episode": 14,
+    "title": "TVD · S05E14",
+    "kind": "episode"
+  },
+  {
+    "id": "TO-1-15",
+    "show": "TO",
+    "season": 1,
+    "episode": 15,
+    "title": "TO · S01E15",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-5-15",
+    "show": "TVD",
+    "season": 5,
+    "episode": 15,
+    "title": "TVD · S05E15",
+    "kind": "episode"
+  },
+  {
+    "id": "TO-1-16",
+    "show": "TO",
+    "season": 1,
+    "episode": 16,
+    "title": "TO · S01E16",
+    "kind": "episode"
+  },
+  {
+    "id": "TO-1-17",
+    "show": "TO",
+    "season": 1,
+    "episode": 17,
+    "title": "TO · S01E17",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-5-16",
+    "show": "TVD",
+    "season": 5,
+    "episode": 16,
+    "title": "TVD · S05E16",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-5-17",
+    "show": "TVD",
+    "season": 5,
+    "episode": 17,
+    "title": "TVD · S05E17",
+    "kind": "episode"
+  },
+  {
+    "id": "TO-1-18",
+    "show": "TO",
+    "season": 1,
+    "episode": 18,
+    "title": "TO · S01E18",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-5-18",
+    "show": "TVD",
+    "season": 5,
+    "episode": 18,
+    "title": "TVD · S05E18",
+    "kind": "episode"
+  },
+  {
+    "id": "TO-1-19",
+    "show": "TO",
+    "season": 1,
+    "episode": 19,
+    "title": "TO · S01E19",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-5-19",
+    "show": "TVD",
+    "season": 5,
+    "episode": 19,
+    "title": "TVD · S05E19",
+    "kind": "episode"
+  },
+  {
+    "id": "TO-1-20",
+    "show": "TO",
+    "season": 1,
+    "episode": 20,
+    "title": "TO · S01E20",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-5-20",
+    "show": "TVD",
+    "season": 5,
+    "episode": 20,
+    "title": "TVD · S05E20",
+    "kind": "episode"
+  },
+  {
+    "id": "TO-1-21",
+    "show": "TO",
+    "season": 1,
+    "episode": 21,
+    "title": "TO · S01E21",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-5-21",
+    "show": "TVD",
+    "season": 5,
+    "episode": 21,
+    "title": "TVD · S05E21",
+    "kind": "episode"
+  },
+  {
+    "id": "TO-1-22",
+    "show": "TO",
+    "season": 1,
+    "episode": 22,
+    "title": "TO · S01E22",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-5-22",
+    "show": "TVD",
+    "season": 5,
+    "episode": 22,
+    "title": "TVD · S05E22",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-6-1",
+    "show": "TVD",
+    "season": 6,
+    "episode": 1,
+    "title": "TVD · S06E01",
+    "kind": "episode"
+  },
+  {
+    "id": "TO-2-1",
+    "show": "TO",
+    "season": 2,
+    "episode": 1,
+    "title": "TO · S02E01",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-6-2",
+    "show": "TVD",
+    "season": 6,
+    "episode": 2,
+    "title": "TVD · S06E02",
+    "kind": "episode"
+  },
+  {
+    "id": "TO-2-2",
+    "show": "TO",
+    "season": 2,
+    "episode": 2,
+    "title": "TO · S02E02",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-6-3",
+    "show": "TVD",
+    "season": 6,
+    "episode": 3,
+    "title": "TVD · S06E03",
+    "kind": "episode"
+  },
+  {
+    "id": "TO-2-3",
+    "show": "TO",
+    "season": 2,
+    "episode": 3,
+    "title": "TO · S02E03",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-6-4",
+    "show": "TVD",
+    "season": 6,
+    "episode": 4,
+    "title": "TVD · S06E04",
+    "kind": "episode"
+  },
+  {
+    "id": "TO-2-4",
+    "show": "TO",
+    "season": 2,
+    "episode": 4,
+    "title": "TO · S02E04",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-6-5",
+    "show": "TVD",
+    "season": 6,
+    "episode": 5,
+    "title": "TVD · S06E05",
+    "kind": "episode"
+  },
+  {
+    "id": "TO-2-5",
+    "show": "TO",
+    "season": 2,
+    "episode": 5,
+    "title": "TO · S02E05",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-6-6",
+    "show": "TVD",
+    "season": 6,
+    "episode": 6,
+    "title": "TVD · S06E06",
+    "kind": "episode"
+  },
+  {
+    "id": "TO-2-6",
+    "show": "TO",
+    "season": 2,
+    "episode": 6,
+    "title": "TO · S02E06",
+    "kind": "episode"
+  },
+  {
+    "id": "AWAKENING-1",
+    "show": "Web Series",
+    "season": 0,
+    "episode": 1,
+    "title": "The Awakening — Part 1",
+    "kind": "webisode"
+  },
+  {
+    "id": "TVD-6-7",
+    "show": "TVD",
+    "season": 6,
+    "episode": 7,
+    "title": "TVD · S06E07",
+    "kind": "episode"
+  },
+  {
+    "id": "TO-2-7",
+    "show": "TO",
+    "season": 2,
+    "episode": 7,
+    "title": "TO · S02E07",
+    "kind": "episode"
+  },
+  {
+    "id": "AWAKENING-2",
+    "show": "Web Series",
+    "season": 0,
+    "episode": 2,
+    "title": "The Awakening — Part 2",
+    "kind": "webisode"
+  },
+  {
+    "id": "TVD-6-8",
+    "show": "TVD",
+    "season": 6,
+    "episode": 8,
+    "title": "TVD · S06E08",
+    "kind": "episode"
+  },
+  {
+    "id": "TO-2-8",
+    "show": "TO",
+    "season": 2,
+    "episode": 8,
+    "title": "TO · S02E08",
+    "kind": "episode"
+  },
+  {
+    "id": "AWAKENING-3",
+    "show": "Web Series",
+    "season": 0,
+    "episode": 3,
+    "title": "The Awakening — Part 3",
+    "kind": "webisode"
+  },
+  {
+    "id": "TVD-6-9",
+    "show": "TVD",
+    "season": 6,
+    "episode": 9,
+    "title": "TVD · S06E09",
+    "kind": "episode"
+  },
+  {
+    "id": "TO-2-9",
+    "show": "TO",
+    "season": 2,
+    "episode": 9,
+    "title": "TO · S02E09",
+    "kind": "episode"
+  },
+  {
+    "id": "AWAKENING-4",
+    "show": "Web Series",
+    "season": 0,
+    "episode": 4,
+    "title": "The Awakening — Part 4",
+    "kind": "webisode"
+  },
+  {
+    "id": "TVD-6-10",
+    "show": "TVD",
+    "season": 6,
+    "episode": 10,
+    "title": "TVD · S06E10",
+    "kind": "episode"
+  },
+  {
+    "id": "TO-2-10",
+    "show": "TO",
+    "season": 2,
+    "episode": 10,
+    "title": "TO · S02E10",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-6-11",
+    "show": "TVD",
+    "season": 6,
+    "episode": 11,
+    "title": "TVD · S06E11",
+    "kind": "episode"
+  },
+  {
+    "id": "TO-2-11",
+    "show": "TO",
+    "season": 2,
+    "episode": 11,
+    "title": "TO · S02E11",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-6-12",
+    "show": "TVD",
+    "season": 6,
+    "episode": 12,
+    "title": "TVD · S06E12",
+    "kind": "episode"
+  },
+  {
+    "id": "TO-2-12",
+    "show": "TO",
+    "season": 2,
+    "episode": 12,
+    "title": "TO · S02E12",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-6-13",
+    "show": "TVD",
+    "season": 6,
+    "episode": 13,
+    "title": "TVD · S06E13",
+    "kind": "episode"
+  },
+  {
+    "id": "TO-2-13",
+    "show": "TO",
+    "season": 2,
+    "episode": 13,
+    "title": "TO · S02E13",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-6-14",
+    "show": "TVD",
+    "season": 6,
+    "episode": 14,
+    "title": "TVD · S06E14",
+    "kind": "episode"
+  },
+  {
+    "id": "TO-2-14",
+    "show": "TO",
+    "season": 2,
+    "episode": 14,
+    "title": "TO · S02E14",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-6-15",
+    "show": "TVD",
+    "season": 6,
+    "episode": 15,
+    "title": "TVD · S06E15",
+    "kind": "episode"
+  },
+  {
+    "id": "TO-2-15",
+    "show": "TO",
+    "season": 2,
+    "episode": 15,
+    "title": "TO · S02E15",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-6-16",
+    "show": "TVD",
+    "season": 6,
+    "episode": 16,
+    "title": "TVD · S06E16",
+    "kind": "episode"
+  },
+  {
+    "id": "TO-2-16",
+    "show": "TO",
+    "season": 2,
+    "episode": 16,
+    "title": "TO · S02E16",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-6-17",
+    "show": "TVD",
+    "season": 6,
+    "episode": 17,
+    "title": "TVD · S06E17",
+    "kind": "episode"
+  },
+  {
+    "id": "TO-2-17",
+    "show": "TO",
+    "season": 2,
+    "episode": 17,
+    "title": "TO · S02E17",
+    "kind": "episode"
+  },
+  {
+    "id": "TO-2-18",
+    "show": "TO",
+    "season": 2,
+    "episode": 18,
+    "title": "TO · S02E18",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-6-18",
+    "show": "TVD",
+    "season": 6,
+    "episode": 18,
+    "title": "TVD · S06E18",
+    "kind": "episode"
+  },
+  {
+    "id": "TO-2-19",
+    "show": "TO",
+    "season": 2,
+    "episode": 19,
+    "title": "TO · S02E19",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-6-19",
+    "show": "TVD",
+    "season": 6,
+    "episode": 19,
+    "title": "TVD · S06E19",
+    "kind": "episode"
+  },
+  {
+    "id": "TO-2-20",
+    "show": "TO",
+    "season": 2,
+    "episode": 20,
+    "title": "TO · S02E20",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-6-20",
+    "show": "TVD",
+    "season": 6,
+    "episode": 20,
+    "title": "TVD · S06E20",
+    "kind": "episode"
+  },
+  {
+    "id": "TO-2-21",
+    "show": "TO",
+    "season": 2,
+    "episode": 21,
+    "title": "TO · S02E21",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-6-21",
+    "show": "TVD",
+    "season": 6,
+    "episode": 21,
+    "title": "TVD · S06E21",
+    "kind": "episode"
+  },
+  {
+    "id": "TO-2-22",
+    "show": "TO",
+    "season": 2,
+    "episode": 22,
+    "title": "TO · S02E22",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-6-22",
+    "show": "TVD",
+    "season": 6,
+    "episode": 22,
+    "title": "TVD · S06E22",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-7-1",
+    "show": "TVD",
+    "season": 7,
+    "episode": 1,
+    "title": "TVD · S07E01",
+    "kind": "episode"
+  },
+  {
+    "id": "TO-3-1",
+    "show": "TO",
+    "season": 3,
+    "episode": 1,
+    "title": "TO · S03E01",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-7-2",
+    "show": "TVD",
+    "season": 7,
+    "episode": 2,
+    "title": "TVD · S07E02",
+    "kind": "episode"
+  },
+  {
+    "id": "TO-3-2",
+    "show": "TO",
+    "season": 3,
+    "episode": 2,
+    "title": "TO · S03E02",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-7-3",
+    "show": "TVD",
+    "season": 7,
+    "episode": 3,
+    "title": "TVD · S07E03",
+    "kind": "episode"
+  },
+  {
+    "id": "TO-3-3",
+    "show": "TO",
+    "season": 3,
+    "episode": 3,
+    "title": "TO · S03E03",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-7-4",
+    "show": "TVD",
+    "season": 7,
+    "episode": 4,
+    "title": "TVD · S07E04",
+    "kind": "episode"
+  },
+  {
+    "id": "TO-3-4",
+    "show": "TO",
+    "season": 3,
+    "episode": 4,
+    "title": "TO · S03E04",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-7-5",
+    "show": "TVD",
+    "season": 7,
+    "episode": 5,
+    "title": "TVD · S07E05",
+    "kind": "episode"
+  },
+  {
+    "id": "TO-3-5",
+    "show": "TO",
+    "season": 3,
+    "episode": 5,
+    "title": "TO · S03E05",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-7-6",
+    "show": "TVD",
+    "season": 7,
+    "episode": 6,
+    "title": "TVD · S07E06",
+    "kind": "episode"
+  },
+  {
+    "id": "TO-3-6",
+    "show": "TO",
+    "season": 3,
+    "episode": 6,
+    "title": "TO · S03E06",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-7-7",
+    "show": "TVD",
+    "season": 7,
+    "episode": 7,
+    "title": "TVD · S07E07",
+    "kind": "episode"
+  },
+  {
+    "id": "TO-3-7",
+    "show": "TO",
+    "season": 3,
+    "episode": 7,
+    "title": "TO · S03E07",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-7-8",
+    "show": "TVD",
+    "season": 7,
+    "episode": 8,
+    "title": "TVD · S07E08",
+    "kind": "episode"
+  },
+  {
+    "id": "TO-3-8",
+    "show": "TO",
+    "season": 3,
+    "episode": 8,
+    "title": "TO · S03E08",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-7-9",
+    "show": "TVD",
+    "season": 7,
+    "episode": 9,
+    "title": "TVD · S07E09",
+    "kind": "episode"
+  },
+  {
+    "id": "TO-3-9",
+    "show": "TO",
+    "season": 3,
+    "episode": 9,
+    "title": "TO · S03E09",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-7-10",
+    "show": "TVD",
+    "season": 7,
+    "episode": 10,
+    "title": "TVD · S07E10",
+    "kind": "episode"
+  },
+  {
+    "id": "TO-3-10",
+    "show": "TO",
+    "season": 3,
+    "episode": 10,
+    "title": "TO · S03E10",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-7-11",
+    "show": "TVD",
+    "season": 7,
+    "episode": 11,
+    "title": "TVD · S07E11",
+    "kind": "episode"
+  },
+  {
+    "id": "TO-3-11",
+    "show": "TO",
+    "season": 3,
+    "episode": 11,
+    "title": "TO · S03E11",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-7-12",
+    "show": "TVD",
+    "season": 7,
+    "episode": 12,
+    "title": "TVD · S07E12",
+    "kind": "episode"
+  },
+  {
+    "id": "TO-3-12",
+    "show": "TO",
+    "season": 3,
+    "episode": 12,
+    "title": "TO · S03E12",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-7-13",
+    "show": "TVD",
+    "season": 7,
+    "episode": 13,
+    "title": "TVD · S07E13",
+    "kind": "episode"
+  },
+  {
+    "id": "TO-3-13",
+    "show": "TO",
+    "season": 3,
+    "episode": 13,
+    "title": "TO · S03E13",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-7-14",
+    "show": "TVD",
+    "season": 7,
+    "episode": 14,
+    "title": "TVD · S07E14",
+    "kind": "episode"
+  },
+  {
+    "id": "TO-3-14",
+    "show": "TO",
+    "season": 3,
+    "episode": 14,
+    "title": "TO · S03E14",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-7-15",
+    "show": "TVD",
+    "season": 7,
+    "episode": 15,
+    "title": "TVD · S07E15",
+    "kind": "episode"
+  },
+  {
+    "id": "TO-3-15",
+    "show": "TO",
+    "season": 3,
+    "episode": 15,
+    "title": "TO · S03E15",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-7-16",
+    "show": "TVD",
+    "season": 7,
+    "episode": 16,
+    "title": "TVD · S07E16",
+    "kind": "episode"
+  },
+  {
+    "id": "TO-3-16",
+    "show": "TO",
+    "season": 3,
+    "episode": 16,
+    "title": "TO · S03E16",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-7-17",
+    "show": "TVD",
+    "season": 7,
+    "episode": 17,
+    "title": "TVD · S07E17",
+    "kind": "episode"
+  },
+  {
+    "id": "TO-3-17",
+    "show": "TO",
+    "season": 3,
+    "episode": 17,
+    "title": "TO · S03E17",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-7-18",
+    "show": "TVD",
+    "season": 7,
+    "episode": 18,
+    "title": "TVD · S07E18",
+    "kind": "episode"
+  },
+  {
+    "id": "TO-3-18",
+    "show": "TO",
+    "season": 3,
+    "episode": 18,
+    "title": "TO · S03E18",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-7-19",
+    "show": "TVD",
+    "season": 7,
+    "episode": 19,
+    "title": "TVD · S07E19",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-7-20",
+    "show": "TVD",
+    "season": 7,
+    "episode": 20,
+    "title": "TVD · S07E20",
+    "kind": "episode"
+  },
+  {
+    "id": "TO-3-19",
+    "show": "TO",
+    "season": 3,
+    "episode": 19,
+    "title": "TO · S03E19",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-7-21",
+    "show": "TVD",
+    "season": 7,
+    "episode": 21,
+    "title": "TVD · S07E21",
+    "kind": "episode"
+  },
+  {
+    "id": "TO-3-20",
+    "show": "TO",
+    "season": 3,
+    "episode": 20,
+    "title": "TO · S03E20",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-7-22",
+    "show": "TVD",
+    "season": 7,
+    "episode": 22,
+    "title": "TVD · S07E22",
+    "kind": "episode"
+  },
+  {
+    "id": "TO-3-21",
+    "show": "TO",
+    "season": 3,
+    "episode": 21,
+    "title": "TO · S03E21",
+    "kind": "episode"
+  },
+  {
+    "id": "TO-3-22",
+    "show": "TO",
+    "season": 3,
+    "episode": 22,
+    "title": "TO · S03E22",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-8-1",
+    "show": "TVD",
+    "season": 8,
+    "episode": 1,
+    "title": "TVD · S08E01",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-8-2",
+    "show": "TVD",
+    "season": 8,
+    "episode": 2,
+    "title": "TVD · S08E02",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-8-3",
+    "show": "TVD",
+    "season": 8,
+    "episode": 3,
+    "title": "TVD · S08E03",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-8-4",
+    "show": "TVD",
+    "season": 8,
+    "episode": 4,
+    "title": "TVD · S08E04",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-8-5",
+    "show": "TVD",
+    "season": 8,
+    "episode": 5,
+    "title": "TVD · S08E05",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-8-6",
+    "show": "TVD",
+    "season": 8,
+    "episode": 6,
+    "title": "TVD · S08E06",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-8-7",
+    "show": "TVD",
+    "season": 8,
+    "episode": 7,
+    "title": "TVD · S08E07",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-8-8",
+    "show": "TVD",
+    "season": 8,
+    "episode": 8,
+    "title": "TVD · S08E08",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-8-9",
+    "show": "TVD",
+    "season": 8,
+    "episode": 9,
+    "title": "TVD · S08E09",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-8-10",
+    "show": "TVD",
+    "season": 8,
+    "episode": 10,
+    "title": "TVD · S08E10",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-8-11",
+    "show": "TVD",
+    "season": 8,
+    "episode": 11,
+    "title": "TVD · S08E11",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-8-12",
+    "show": "TVD",
+    "season": 8,
+    "episode": 12,
+    "title": "TVD · S08E12",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-8-13",
+    "show": "TVD",
+    "season": 8,
+    "episode": 13,
+    "title": "TVD · S08E13",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-8-14",
+    "show": "TVD",
+    "season": 8,
+    "episode": 14,
+    "title": "TVD · S08E14",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-8-15",
+    "show": "TVD",
+    "season": 8,
+    "episode": 15,
+    "title": "TVD · S08E15",
+    "kind": "episode"
+  },
+  {
+    "id": "TVD-8-16",
+    "show": "TVD",
+    "season": 8,
+    "episode": 16,
+    "title": "TVD · S08E16",
+    "kind": "episode"
+  },
+  {
+    "id": "TO-4-1",
+    "show": "TO",
+    "season": 4,
+    "episode": 1,
+    "title": "TO · S04E01",
+    "kind": "episode"
+  },
+  {
+    "id": "TO-4-2",
+    "show": "TO",
+    "season": 4,
+    "episode": 2,
+    "title": "TO · S04E02",
+    "kind": "episode"
+  },
+  {
+    "id": "TO-4-3",
+    "show": "TO",
+    "season": 4,
+    "episode": 3,
+    "title": "TO · S04E03",
+    "kind": "episode"
+  },
+  {
+    "id": "TO-4-4",
+    "show": "TO",
+    "season": 4,
+    "episode": 4,
+    "title": "TO · S04E04",
+    "kind": "episode"
+  },
+  {
+    "id": "TO-4-5",
+    "show": "TO",
+    "season": 4,
+    "episode": 5,
+    "title": "TO · S04E05",
+    "kind": "episode"
+  },
+  {
+    "id": "TO-4-6",
+    "show": "TO",
+    "season": 4,
+    "episode": 6,
+    "title": "TO · S04E06",
+    "kind": "episode"
+  },
+  {
+    "id": "TO-4-7",
+    "show": "TO",
+    "season": 4,
+    "episode": 7,
+    "title": "TO · S04E07",
+    "kind": "episode"
+  },
+  {
+    "id": "TO-4-8",
+    "show": "TO",
+    "season": 4,
+    "episode": 8,
+    "title": "TO · S04E08",
+    "kind": "episode"
+  },
+  {
+    "id": "TO-4-9",
+    "show": "TO",
+    "season": 4,
+    "episode": 9,
+    "title": "TO · S04E09",
+    "kind": "episode"
+  },
+  {
+    "id": "TO-4-10",
+    "show": "TO",
+    "season": 4,
+    "episode": 10,
+    "title": "TO · S04E10",
+    "kind": "episode"
+  },
+  {
+    "id": "TO-4-11",
+    "show": "TO",
+    "season": 4,
+    "episode": 11,
+    "title": "TO · S04E11",
+    "kind": "episode"
+  },
+  {
+    "id": "TO-4-12",
+    "show": "TO",
+    "season": 4,
+    "episode": 12,
+    "title": "TO · S04E12",
+    "kind": "episode"
+  },
+  {
+    "id": "TO-4-13",
+    "show": "TO",
+    "season": 4,
+    "episode": 13,
+    "title": "TO · S04E13",
+    "kind": "episode"
+  },
+  {
+    "id": "TO-5-1",
+    "show": "TO",
+    "season": 5,
+    "episode": 1,
+    "title": "TO · S05E01",
+    "kind": "episode"
+  },
+  {
+    "id": "TO-5-2",
+    "show": "TO",
+    "season": 5,
+    "episode": 2,
+    "title": "TO · S05E02",
+    "kind": "episode"
+  },
+  {
+    "id": "TO-5-3",
+    "show": "TO",
+    "season": 5,
+    "episode": 3,
+    "title": "TO · S05E03",
+    "kind": "episode"
+  },
+  {
+    "id": "TO-5-4",
+    "show": "TO",
+    "season": 5,
+    "episode": 4,
+    "title": "TO · S05E04",
+    "kind": "episode"
+  },
+  {
+    "id": "TO-5-5",
+    "show": "TO",
+    "season": 5,
+    "episode": 5,
+    "title": "TO · S05E05",
+    "kind": "episode"
+  },
+  {
+    "id": "TO-5-6",
+    "show": "TO",
+    "season": 5,
+    "episode": 6,
+    "title": "TO · S05E06",
+    "kind": "episode"
+  },
+  {
+    "id": "TO-5-7",
+    "show": "TO",
+    "season": 5,
+    "episode": 7,
+    "title": "TO · S05E07",
+    "kind": "episode"
+  },
+  {
+    "id": "TO-5-8",
+    "show": "TO",
+    "season": 5,
+    "episode": 8,
+    "title": "TO · S05E08",
+    "kind": "episode"
+  },
+  {
+    "id": "TO-5-9",
+    "show": "TO",
+    "season": 5,
+    "episode": 9,
+    "title": "TO · S05E09",
+    "kind": "episode"
+  },
+  {
+    "id": "TO-5-10",
+    "show": "TO",
+    "season": 5,
+    "episode": 10,
+    "title": "TO · S05E10",
+    "kind": "episode"
+  },
+  {
+    "id": "TO-5-11",
+    "show": "TO",
+    "season": 5,
+    "episode": 11,
+    "title": "TO · S05E11",
+    "kind": "episode"
+  },
+  {
+    "id": "TO-5-12",
+    "show": "TO",
+    "season": 5,
+    "episode": 12,
+    "title": "TO · S05E12",
+    "kind": "episode"
+  },
+  {
+    "id": "TO-5-13",
+    "show": "TO",
+    "season": 5,
+    "episode": 13,
+    "title": "TO · S05E13",
+    "kind": "episode"
+  },
+  {
+    "id": "LEG-1-1",
+    "show": "LEG",
+    "season": 1,
+    "episode": 1,
+    "title": "LEG · S01E01",
+    "kind": "episode"
+  },
+  {
+    "id": "LEG-1-2",
+    "show": "LEG",
+    "season": 1,
+    "episode": 2,
+    "title": "LEG · S01E02",
+    "kind": "episode"
+  },
+  {
+    "id": "LEG-1-3",
+    "show": "LEG",
+    "season": 1,
+    "episode": 3,
+    "title": "LEG · S01E03",
+    "kind": "episode"
+  },
+  {
+    "id": "LEG-1-4",
+    "show": "LEG",
+    "season": 1,
+    "episode": 4,
+    "title": "LEG · S01E04",
+    "kind": "episode"
+  },
+  {
+    "id": "LEG-1-5",
+    "show": "LEG",
+    "season": 1,
+    "episode": 5,
+    "title": "LEG · S01E05",
+    "kind": "episode"
+  },
+  {
+    "id": "LEG-1-6",
+    "show": "LEG",
+    "season": 1,
+    "episode": 6,
+    "title": "LEG · S01E06",
+    "kind": "episode"
+  },
+  {
+    "id": "LEG-1-7",
+    "show": "LEG",
+    "season": 1,
+    "episode": 7,
+    "title": "LEG · S01E07",
+    "kind": "episode"
+  },
+  {
+    "id": "LEG-1-8",
+    "show": "LEG",
+    "season": 1,
+    "episode": 8,
+    "title": "LEG · S01E08",
+    "kind": "episode"
+  },
+  {
+    "id": "LEG-1-9",
+    "show": "LEG",
+    "season": 1,
+    "episode": 9,
+    "title": "LEG · S01E09",
+    "kind": "episode"
+  },
+  {
+    "id": "LEG-1-10",
+    "show": "LEG",
+    "season": 1,
+    "episode": 10,
+    "title": "LEG · S01E10",
+    "kind": "episode"
+  },
+  {
+    "id": "LEG-1-11",
+    "show": "LEG",
+    "season": 1,
+    "episode": 11,
+    "title": "LEG · S01E11",
+    "kind": "episode"
+  },
+  {
+    "id": "LEG-1-12",
+    "show": "LEG",
+    "season": 1,
+    "episode": 12,
+    "title": "LEG · S01E12",
+    "kind": "episode"
+  },
+  {
+    "id": "LEG-1-13",
+    "show": "LEG",
+    "season": 1,
+    "episode": 13,
+    "title": "LEG · S01E13",
+    "kind": "episode"
+  },
+  {
+    "id": "LEG-1-14",
+    "show": "LEG",
+    "season": 1,
+    "episode": 14,
+    "title": "LEG · S01E14",
+    "kind": "episode"
+  },
+  {
+    "id": "LEG-1-15",
+    "show": "LEG",
+    "season": 1,
+    "episode": 15,
+    "title": "LEG · S01E15",
+    "kind": "episode"
+  },
+  {
+    "id": "LEG-1-16",
+    "show": "LEG",
+    "season": 1,
+    "episode": 16,
+    "title": "LEG · S01E16",
+    "kind": "episode"
+  },
+  {
+    "id": "LEG-2-1",
+    "show": "LEG",
+    "season": 2,
+    "episode": 1,
+    "title": "LEG · S02E01",
+    "kind": "episode"
+  },
+  {
+    "id": "LEG-2-2",
+    "show": "LEG",
+    "season": 2,
+    "episode": 2,
+    "title": "LEG · S02E02",
+    "kind": "episode"
+  },
+  {
+    "id": "LEG-2-3",
+    "show": "LEG",
+    "season": 2,
+    "episode": 3,
+    "title": "LEG · S02E03",
+    "kind": "episode"
+  },
+  {
+    "id": "LEG-2-4",
+    "show": "LEG",
+    "season": 2,
+    "episode": 4,
+    "title": "LEG · S02E04",
+    "kind": "episode"
+  },
+  {
+    "id": "LEG-2-5",
+    "show": "LEG",
+    "season": 2,
+    "episode": 5,
+    "title": "LEG · S02E05",
+    "kind": "episode"
+  },
+  {
+    "id": "LEG-2-6",
+    "show": "LEG",
+    "season": 2,
+    "episode": 6,
+    "title": "LEG · S02E06",
+    "kind": "episode"
+  },
+  {
+    "id": "LEG-2-7",
+    "show": "LEG",
+    "season": 2,
+    "episode": 7,
+    "title": "LEG · S02E07",
+    "kind": "episode"
+  },
+  {
+    "id": "LEG-2-8",
+    "show": "LEG",
+    "season": 2,
+    "episode": 8,
+    "title": "LEG · S02E08",
+    "kind": "episode"
+  },
+  {
+    "id": "LEG-2-9",
+    "show": "LEG",
+    "season": 2,
+    "episode": 9,
+    "title": "LEG · S02E09",
+    "kind": "episode"
+  },
+  {
+    "id": "LEG-2-10",
+    "show": "LEG",
+    "season": 2,
+    "episode": 10,
+    "title": "LEG · S02E10",
+    "kind": "episode"
+  },
+  {
+    "id": "LEG-2-11",
+    "show": "LEG",
+    "season": 2,
+    "episode": 11,
+    "title": "LEG · S02E11",
+    "kind": "episode"
+  },
+  {
+    "id": "LEG-2-12",
+    "show": "LEG",
+    "season": 2,
+    "episode": 12,
+    "title": "LEG · S02E12",
+    "kind": "episode"
+  },
+  {
+    "id": "LEG-2-13",
+    "show": "LEG",
+    "season": 2,
+    "episode": 13,
+    "title": "LEG · S02E13",
+    "kind": "episode"
+  },
+  {
+    "id": "LEG-2-14",
+    "show": "LEG",
+    "season": 2,
+    "episode": 14,
+    "title": "LEG · S02E14",
+    "kind": "episode"
+  },
+  {
+    "id": "LEG-2-15",
+    "show": "LEG",
+    "season": 2,
+    "episode": 15,
+    "title": "LEG · S02E15",
+    "kind": "episode"
+  },
+  {
+    "id": "LEG-2-16",
+    "show": "LEG",
+    "season": 2,
+    "episode": 16,
+    "title": "LEG · S02E16",
+    "kind": "episode"
+  },
+  {
+    "id": "LEG-3-1",
+    "show": "LEG",
+    "season": 3,
+    "episode": 1,
+    "title": "LEG · S03E01",
+    "kind": "episode"
+  },
+  {
+    "id": "LEG-3-2",
+    "show": "LEG",
+    "season": 3,
+    "episode": 2,
+    "title": "LEG · S03E02",
+    "kind": "episode"
+  },
+  {
+    "id": "LEG-3-3",
+    "show": "LEG",
+    "season": 3,
+    "episode": 3,
+    "title": "LEG · S03E03",
+    "kind": "episode"
+  },
+  {
+    "id": "LEG-3-4",
+    "show": "LEG",
+    "season": 3,
+    "episode": 4,
+    "title": "LEG · S03E04",
+    "kind": "episode"
+  },
+  {
+    "id": "LEG-3-5",
+    "show": "LEG",
+    "season": 3,
+    "episode": 5,
+    "title": "LEG · S03E05",
+    "kind": "episode"
+  },
+  {
+    "id": "LEG-3-6",
+    "show": "LEG",
+    "season": 3,
+    "episode": 6,
+    "title": "LEG · S03E06",
+    "kind": "episode"
+  },
+  {
+    "id": "LEG-3-7",
+    "show": "LEG",
+    "season": 3,
+    "episode": 7,
+    "title": "LEG · S03E07",
+    "kind": "episode"
+  },
+  {
+    "id": "LEG-3-8",
+    "show": "LEG",
+    "season": 3,
+    "episode": 8,
+    "title": "LEG · S03E08",
+    "kind": "episode"
+  },
+  {
+    "id": "LEG-3-9",
+    "show": "LEG",
+    "season": 3,
+    "episode": 9,
+    "title": "LEG · S03E09",
+    "kind": "episode"
+  },
+  {
+    "id": "LEG-3-10",
+    "show": "LEG",
+    "season": 3,
+    "episode": 10,
+    "title": "LEG · S03E10",
+    "kind": "episode"
+  },
+  {
+    "id": "LEG-3-11",
+    "show": "LEG",
+    "season": 3,
+    "episode": 11,
+    "title": "LEG · S03E11",
+    "kind": "episode"
+  },
+  {
+    "id": "LEG-3-12",
+    "show": "LEG",
+    "season": 3,
+    "episode": 12,
+    "title": "LEG · S03E12",
+    "kind": "episode"
+  },
+  {
+    "id": "LEG-3-13",
+    "show": "LEG",
+    "season": 3,
+    "episode": 13,
+    "title": "LEG · S03E13",
+    "kind": "episode"
+  },
+  {
+    "id": "LEG-3-14",
+    "show": "LEG",
+    "season": 3,
+    "episode": 14,
+    "title": "LEG · S03E14",
+    "kind": "episode"
+  },
+  {
+    "id": "LEG-3-15",
+    "show": "LEG",
+    "season": 3,
+    "episode": 15,
+    "title": "LEG · S03E15",
+    "kind": "episode"
+  },
+  {
+    "id": "LEG-3-16",
+    "show": "LEG",
+    "season": 3,
+    "episode": 16,
+    "title": "LEG · S03E16",
+    "kind": "episode"
+  },
+  {
+    "id": "LEG-4-1",
+    "show": "LEG",
+    "season": 4,
+    "episode": 1,
+    "title": "LEG · S04E01",
+    "kind": "episode"
+  },
+  {
+    "id": "LEG-4-2",
+    "show": "LEG",
+    "season": 4,
+    "episode": 2,
+    "title": "LEG · S04E02",
+    "kind": "episode"
+  },
+  {
+    "id": "LEG-4-3",
+    "show": "LEG",
+    "season": 4,
+    "episode": 3,
+    "title": "LEG · S04E03",
+    "kind": "episode"
+  },
+  {
+    "id": "LEG-4-4",
+    "show": "LEG",
+    "season": 4,
+    "episode": 4,
+    "title": "LEG · S04E04",
+    "kind": "episode"
+  },
+  {
+    "id": "LEG-4-5",
+    "show": "LEG",
+    "season": 4,
+    "episode": 5,
+    "title": "LEG · S04E05",
+    "kind": "episode"
+  },
+  {
+    "id": "LEG-4-6",
+    "show": "LEG",
+    "season": 4,
+    "episode": 6,
+    "title": "LEG · S04E06",
+    "kind": "episode"
+  },
+  {
+    "id": "LEG-4-7",
+    "show": "LEG",
+    "season": 4,
+    "episode": 7,
+    "title": "LEG · S04E07",
+    "kind": "episode"
+  },
+  {
+    "id": "LEG-4-8",
+    "show": "LEG",
+    "season": 4,
+    "episode": 8,
+    "title": "LEG · S04E08",
+    "kind": "episode"
+  },
+  {
+    "id": "LEG-4-9",
+    "show": "LEG",
+    "season": 4,
+    "episode": 9,
+    "title": "LEG · S04E09",
+    "kind": "episode"
+  },
+  {
+    "id": "LEG-4-10",
+    "show": "LEG",
+    "season": 4,
+    "episode": 10,
+    "title": "LEG · S04E10",
+    "kind": "episode"
+  },
+  {
+    "id": "LEG-4-11",
+    "show": "LEG",
+    "season": 4,
+    "episode": 11,
+    "title": "LEG · S04E11",
+    "kind": "episode"
+  },
+  {
+    "id": "LEG-4-12",
+    "show": "LEG",
+    "season": 4,
+    "episode": 12,
+    "title": "LEG · S04E12",
+    "kind": "episode"
+  },
+  {
+    "id": "LEG-4-13",
+    "show": "LEG",
+    "season": 4,
+    "episode": 13,
+    "title": "LEG · S04E13",
+    "kind": "episode"
+  },
+  {
+    "id": "LEG-4-14",
+    "show": "LEG",
+    "season": 4,
+    "episode": 14,
+    "title": "LEG · S04E14",
+    "kind": "episode"
+  },
+  {
+    "id": "LEG-4-15",
+    "show": "LEG",
+    "season": 4,
+    "episode": 15,
+    "title": "LEG · S04E15",
+    "kind": "episode"
+  },
+  {
+    "id": "LEG-4-16",
+    "show": "LEG",
+    "season": 4,
+    "episode": 16,
+    "title": "LEG · S04E16",
+    "kind": "episode"
+  },
+  {
+    "id": "LEG-4-17",
+    "show": "LEG",
+    "season": 4,
+    "episode": 17,
+    "title": "LEG · S04E17",
+    "kind": "episode"
+  },
+  {
+    "id": "LEG-4-18",
+    "show": "LEG",
+    "season": 4,
+    "episode": 18,
+    "title": "LEG · S04E18",
+    "kind": "episode"
+  },
+  {
+    "id": "LEG-4-19",
+    "show": "LEG",
+    "season": 4,
+    "episode": 19,
+    "title": "LEG · S04E19",
+    "kind": "episode"
+  },
+  {
+    "id": "LEG-4-20",
+    "show": "LEG",
+    "season": 4,
+    "episode": 20,
+    "title": "LEG · S04E20",
+    "kind": "episode"
+  }
+]

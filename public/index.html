@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>The Supernatural World</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/style.css">
+</head>
+<body>
+<div class="shade"></div>
+<header class="topbar"><a class="brand" href="#"><span>✥</span> THE <b>SUPERNATURAL</b> WORLD</a><nav id="nav"><button data-view="home">Home</button><button data-view="login">Login</button><button data-view="register">Create Account</button></nav></header>
+<main>
+<section id="home" class="view hero">
+  <div class="hero-card"><div class="eyebrow">A JOURNEY THROUGH THE UNKNOWN</div><h1>The <em>Supernatural</em> World</h1>
+  <p class="lead">Your personal guide through the stories of The Vampire Diaries, The Originals, Legacies, and their web series.</p>
+  <p class="sublead">Follow the viewing order, mark every episode you finish, and keep your progress safe in your own account.</p>
+  <div class="stats"><div><strong>339</strong><span>STORY ITEMS</span></div><div><strong>5</strong><span>WORLD STORIES</span></div><div><strong>∞</strong><span>YOUR JOURNEY</span></div></div>
+  <div class="actions"><button class="primary" data-view="login">Login</button><button class="outline" data-view="register">Create Account</button></div>
+  <small class="motto">Some stories never leave us.</small></div>
+</section>
+<section id="login" class="view auth hidden"><form id="loginForm" class="panel"><div class="sigil">✥</div><h2>Welcome Back</h2><p>Continue your journey.</p><label>Username<input name="username" autocomplete="username" required minlength="3"></label><label>Password<input name="password" type="password" autocomplete="current-password" required></label><button class="primary wide">Login</button><div class="switch">New here? <button type="button" data-view="register">Create Account</button></div><div class="message" id="loginMsg"></div></form></section>
+<section id="register" class="view auth hidden"><form id="registerForm" class="panel"><div class="sigil">✥</div><h2>Create Account</h2><p>Your progress belongs to you.</p><label>Create Username<input name="username" autocomplete="username" required minlength="3" maxlength="24" pattern="[A-Za-z0-9_.-]+"></label><label>Create Password<input name="password" type="password" autocomplete="new-password" required minlength="8"></label><label>Confirm Password<input name="confirmPassword" type="password" autocomplete="new-password" required minlength="8"></label><button class="primary wide">Create Account</button><div class="switch">Already have an account? <button type="button" data-view="login">Login</button></div><div class="message" id="registerMsg"></div></form></section>
+<section id="dashboard" class="view hidden">
+ <div class="dash-head"><div><div class="eyebrow">YOUR PERSONAL JOURNEY</div><h1>My <em>Watchlist</em></h1><p>Every episode, in the spoiler-safe viewing order.</p></div><div class="userbox">Welcome, <b id="username"></b><button id="logout">Logout</button></div></div>
+ <div class="progress-card"><div class="progress-copy"><span>YOUR PROGRESS</span><strong id="progressText">0 / 339 watched</strong></div><div class="track"><div id="progressBar"></div></div><div class="percent" id="percent">0%</div></div>
+ <div class="toolbar"><input id="search" placeholder="Search episode or code…"><select id="filter"><option value="all">All stories</option><option value="TVD">The Vampire Diaries</option><option value="TO">The Originals</option><option value="LEG">Legacies</option><option value="Web Series">Web Series</option></select><select id="status"><option value="all">All episodes</option><option value="unwatched">Not watched</option><option value="watched">Watched</option></select></div>
+ <div class="legend"><span><i class="green"></i> Watched</span><span><i></i> Not watched</span><span id="shownCount"></span></div>
+ <div id="episodeList" class="episode-list"></div>
+ <p class="footnote">Your checklist is saved to your account automatically. You can sign in again later to continue.</p>
+</section>
+</main>
+<footer>THE SUPERNATURAL WORLD <span>•</span> WATCH · TRACK · REMEMBER</footer>
+<script src="/app.js"></script>
+</body></html>
